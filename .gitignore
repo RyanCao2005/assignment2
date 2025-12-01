@@ -1,0 +1,20 @@
+# Dataset files (too large for git)
+*.csv
+*.csv.gz
+*.gz
+*.part
+
+# Keep the directory structure
+!.gitkeep
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
